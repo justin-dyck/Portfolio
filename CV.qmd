@@ -1,0 +1,148 @@
+---
+title: "Justin Dyck"
+format:
+  html:
+    toc: true
+  pdf:
+    author: Justin Dyck
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+::: {.contact-block}
+799 Wolseley Ave <br>
+Winnipeg, MB <br>
+**justin.wayne.d@gmail.com** <br>
+204-325-0588
+:::
+
+<br>
+
+## Education
+
+**M.Sc. -- Community Health Sciences** *Biostatistics Stream* <br> *University of Manitoba* [*Sep 2017 --- Dec 2019*]{.cvdate}
+
+MSc thesis consisted of applying Bayesian Spatio-Temporal regression models to health data, to gain insight into chronic disease trends. Attention was given to spatial cluster detection, disease mapping, time-series analysis, and the modifiable areal unit problem/spatial change of support problem.
+
+
+**B.Sc. -- Statistics** <br> *University of Winnipeg* [*Sep 2012 --- Jun 2017*]{.cvdate}
+
+<br>
+
+##  Work Experience 
+
+### Health Canada
+
+***Senior Analyst, Data Science & Analytics*** [Nov 2023 -- Present]{.cvdate}
+
+As Senior Analyst within the Drug Analysis Service, I am the data and analytics lead within the Director's office. Specific duties include:
+
+-   Development and maintenance of data pipelines from the laboratory information management system, to the reporting database.
+-   Maintaining scheduled and automated reports and dashboards. 
+-   Development and contribution to new reports on substance and drug market trends.
+-   Addressing data requests as needed.
+
+### Public Health Agency of Canada
+
+***Epidemiologist*** [Feb 2023 -- Nov 2023]{.cvdate}
+
+As an Epidemiologist working within the Substance-related Overdose and Mortality Surveillance Unit within the Centre for Surveillance and Applied Research, I was responsible for:
+
+-   Design and facilitation of presentation slides for scheduled Ministerial briefings on the substance-related harms surveillance data.
+-   Drafting recommended approaches for the expansion of the National Substance-related Harms surveillance system.
+-   Drafting analysis plans, for analytic projects using the data from the National Substance-related Harms surveillance system. Including geospatial analysis, toxicity of supply modeling, etc.
+
+***Public Health Officer*** [Nov 2021 -- Feb 2023]{.cvdate}
+
+As Public Health Officer I was deployed to Manitoba Health's Epidemiology Unit, to build capacity around Manitoba's Substance Related Harms portfolio. Duties included:
+
+-   Enhancing and maintaining the Provincial substance use and related harms surveillance system. Specifically, revamping the Substance Harms surveillance database and constructing a [Provincial dashboard of Substance Related Harms.](https://web.archive.org/web/20240117090913/https://www.manitoba.ca/mh/srh-public-report.html){target="_blank"} 
+-   Facilitating data flows within the Province, as well as to the Public Health Agency of Canada for the National surveillance system.
+-   Working with community stakeholder groups, to receive additional data from community organizations, and [report the analysis from this data back to them.](https://web.archive.org/web/20240131130640/https://www.gov.mb.ca/health/publichealth/surveillance/naloxone/index.html){target="_blank"} 
+-   Coordinating Substance Related Harms surveillance briefings with the Deputy Minister of Mental Health and Community Wellness on a monthly basis.
+-   Modelling substance related emergency department visits, to develop syndromic surveillance indicators.
+-   Development of public facing materials ([surveillance dashboard](https://web.archive.org/web/20240117090913/https://www.manitoba.ca/mh/srh-public-report.html){target="_blank"}  and [reports](https://web.archive.org/web/20230303212340/https://manitoba.ca/mh/srh-epi-summary.html){target="_blank"} ) for publication on the [Provincial government's website.](https://web.archive.org/web/20240131130556/https://www.gov.mb.ca/health/publichealth/surveillance/substance.html){target="_blank"} 
+
+### Manitoba Health
+
+***Statistical Analyst*** [Jan 2020 -- Nov 2021]{.cvdate}
+
+Working as a statistical analyst in the Information Management & Analytics branch, I had the role of one of the lead data analysts on the COVID-19 portfolio. Specific duties included:
+
+-   Constructing queries from the Public Health Information Management System (PHIMS), the Admissions Discharges Transfers (ADT) database, the Emergency Department Information System (EDIS) database, and the Laboratory Information Management System (LIMS) for identifying COVID-19 positive cases, hospitalizations, fatalities, etc. as they related to key healthcare system performance indicators.
+-   Developed and maintained reports of health system and public health metrics such as health system capacity, specimen collection capacity, laboratory capacity, positivity rates, and contact network monitoring.
+-   Took the lead on developing a dashboard and a full suite of automated reports in R-Shiny. Throughout this project I had the opportunity to supervise and train students and staff on the development and daily maintenance of the dashboard and reports.
+
+### University of Manitoba
+
+***Research Assistant*** [Oct 2019 -- Jun 2021]{.cvdate}
+
+Under the supervision of Dr. Mahmoud Torabi, I contributed to the ongoing Childhood Leukemia Surveillance project. Specific duties included:
+
+-   Data analysis of spatially structured childhood leukemia incidence.
+-   Manuscript drafting.
+-   Grant writing for the annual CIHR submission.
+
+***Junior Data Analyst*** [Oct 2018 -- Dec 2019]{.cvdate}
+
+At the Centre for Healthcare Innovation I worked as a data analyst and junior statistical consultant on various projects, including:
+
+-   Data analysis for a pediatric diabetes project.
+-   Statistical consultations for graduate students on their quantitative research projects.
+-   Development of a tool for conducting Trial Sequential Analysis in R.
+-   Data analysis for a pediatric head trauma project.
+
+<br>
+
+## Publications
+
+**Dyck, Justin;** Tate, Robert; Uhanova, Julia; Torabi, Mahmoud. Social determinants and spatio-temporal variation of ischemic heart disease in Manitoba. *BMC Public Health*, 2021-12-30, [https://doi.org/10.1186/s12889-021-12369-1](https://doi.org/10.1186/s12889-021-12369-1){target="_blank"}.
+
+Dart, Allison B; Wicklow, Brandy; Scholey, James; Sellers, Elizabeth A; **Dyck, Justin;** Mahmud, Farid; Sochett, Etienne; Hamilton, Jill; Blydt‐Hansen, Tom; Burns, Kevin. An evaluation of renin-angiotensin system markers in youth with type 2 diabetes and associations with renal outcomes. *Pediatric diabetes*, 2020-11, Vol.21 (7), p.1102-1109, [https://doi.org/10.1111/pedi.13081]( https://doi.org/10.1111/pedi.13081){target="_blank"}.
+
+Harper, Jessica A; Klassen, Terry P; Balshaw, Robert; **Dyck, Justin;** Osmond, Martin H. Characteristics of vomiting as a predictor of intercranial injury in pediatric head injury. *Canadian journal of emergency medicine*, 2020-06-09, Vol.22 (6), p.1-9, [https://doi.org/10.1017/cem.2020.378](https://doi.org/10.1017/cem.2020.378){target="_blank"}.
+
+<br>
+
+## Presentations and Workshops
+
+-   Guest Lecture: [Mapping with QGIS and R](https://justinwd.quarto.pub/mapping-with-qgis-and-r-f378/#/title-slide){target="_blank"} (Advanced Methods in Spatial Epidemiology graduate level course lecture. Oct 24, 2022)
+-   Workshop: [Mapping in R](https://justinwd.quarto.pub/mapping-in-r-workshop/){target="_blank"} (Dr. Torabi's research group workshop. April 22, 2022)
+-   Workshop: Introduction to R-Package Creation (Dr. Torabi's research group workshop. August 21, 2020)
+-   Talk: Statistical Models for Spatially Misaligned Data: An Application to Ischemic Heart Disease in Manitoba. (Statistical Society of Canada 2019 Annual Meeting - May 2019)
+
+
+<br>
+
+## Awards and Recognition
+
+**Statistical Society of Canada Student Travel Award** <br> *Statistical Society of Canada* [*2019*]{.cvdate}
+
+**Manitoba Training Program for Health Services Research Studentship** <br> *University of Manitoba - Rady Faculty of Health Sciences* [*2017-2018*]{.cvdate}
+
+**Undergraduate Student Research Travel Grant, SSC Case Studies in Data Analysis** <br> *University of Winnipeg* [*2017*]{.cvdate}
+
+**Dean's Honour List, Student of Highest Distinction** <br> *University of Winnipeg - Faculty of Science* [*2016-2017*]{.cvdate}
+
+**Dean's Honour List** <br> *University of Winnipeg - Faculty of Science* [*2015-2016*]{.cvdate}
+
+<br>
+
+## Relevant Skills
+
+Advanced knowledge of the R programming language (10+ years experience). Specifically:
+
+-   Modelling using WinBUGS (R2WinBUGS), R-INLA, rjags, and others.
+-   tidyverse/tidymodels proficient.
+-   Experience with quarto, rmarkdown, and markdown document generation.
+-   Experience in developing, maintaining, and deploying R-Shiny applications, including using interactive plots and tables.
+-   Development of R packages for projects and for colleagues to aid in workflow efficiency.
+
+Proficient in statistical coding methods and query construction in SAS and SQL (5+ years experience).
+
+Experienced using ArcGIS and QGIS for geostatistical analysis and mapping.
+
+Knowledge of LaTeX for document generation including papers, posters, and presentations.
+
+Set up, usage, and maintenance of multiple git repositories for projects on github and on a networked drive for confidential projects (2+ years experience).

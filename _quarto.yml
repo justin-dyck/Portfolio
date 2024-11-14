@@ -9,6 +9,9 @@ website:
         text: Home
       - href: portfolio.qmd
         text: Portfolio
+      - href: CV.qmd
+        text: Curriculum Vitae
+      
 
 format:
   html:
