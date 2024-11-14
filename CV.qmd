@@ -3,18 +3,11 @@ title: "Justin Dyck"
 format:
   html:
     toc: true
-  pdf:
-    author: Justin Dyck
-    pdf-engine: weasyprint
 css: cv.css
-format-links: [pdf]
 ---
 
 ::: {.contact-block}
-799 Wolseley Ave <br>
-Winnipeg, MB <br>
 **justin.wayne.d@gmail.com** <br>
-204-325-0588
 :::
 
 <br>
